@@ -1,5 +1,5 @@
 # TO - Calculator - JavaScript
-<a href="https://calculatorinjavascript.vercel.app/" target="_blank">👉click here to view👈</a>
+<a href="https://calculatorinjavascript.vercel.app/">👉click here to view👈</a>
 # 💫 About Me:
 Hi, ¿How are you? 👋<br>😎I am a Software Engineer student looking for new opportunities and passionate about learning new things.
 
